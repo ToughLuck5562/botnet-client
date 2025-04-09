@@ -1,5 +1,5 @@
 {
   "ATTACK": true,
-  "TARGET": "",
+  "TARGET": "https://quarkylite.vercel.app/",
   "WORKERS": 0
 }
