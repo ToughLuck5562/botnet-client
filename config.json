@@ -1,5 +1,5 @@
 {
-  "ATTACK": false,
+  "ATTACK": true,
   "TARGET": "",
   "WORKERS": 0
 }
